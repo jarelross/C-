@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Jarel/Desktop/realprogram8/8.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+stdlib.h
+-
+string
+-
+
