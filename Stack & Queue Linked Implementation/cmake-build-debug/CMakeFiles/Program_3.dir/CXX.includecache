@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Queue.cpp
+Queue.h
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Queue.h
+
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Queue.h
+iostream
+-
+
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Stack.cpp
+Stack.h
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Stack.h
+
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Stack.h
+iostream
+-
+
+/Users/Jarel/Desktop/COMP280 2018/Program 3/main.cpp
+Stack.h
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Stack.h
+Queue.h
+/Users/Jarel/Desktop/COMP280 2018/Program 3/Queue.h
+iostream
+-
+
